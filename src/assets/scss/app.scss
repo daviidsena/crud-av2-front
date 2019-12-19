@@ -1,0 +1,13 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import '../../../node_modules/material-design-icons/iconfont/material-icons.css';
+@import url('https://use.fontawesome.com/releases/v5.7.1/css/all.css');
+
+* {
+  font-family: 'Rubik', sans-serif;
+}
+
+.material-icons.md-18 { font-size: 18px }
+.material-icons.md-24 { font-size: 24px }
+.material-icons.md-36 { font-size: 36px }
+.material-icons.md-48 { font-size: 48px }
